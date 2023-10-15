@@ -1,0 +1,2 @@
+I'll delete this branch.
+Before deleting this branch, I’ll check out how Git manages conflicts between files when I try to merge an undesirable change.
